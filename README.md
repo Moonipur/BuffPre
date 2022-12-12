@@ -36,9 +36,9 @@ BuffPre [options] -h
     -v, --version   The lastest version of BuffPre
     
 # Uninstall program
-chmod +x UNINSTALL.sh
+chmod +x uninstall.sh
 
-./UNINSTALL.sh
+./uninstall.sh
 
 # Author's email:
     moo_sutthittha@hotmail.com (Moonipur)
