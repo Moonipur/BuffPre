@@ -23,20 +23,20 @@ BuffPre [options] -h
     -m, --Molar     Calculate Molar of solution
     -r, --recovery  Calculate the percentage of recovery
 
-#File config: 
-BuffPre -i <path> -o <path>
+# File config:
+    BuffPre -i <path> -o <path>
     -i <path>       Input config file path
     -o <path>       Your output directory path (default current directory)
     --conf          Display confic file pattern
 
-#Library & Test:
+# Library & Test:
     -l, --library   Display pKa library
     -t, --test      Test example confic file
 
-#History:
+# History:
     --hist          Display all command and output (Showed dates)
 
-#Other:
+# Other:
     -h, --help      Show this help message and exit
     -v, --version   The lastest version of BuffPre
     
