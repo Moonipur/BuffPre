@@ -13,7 +13,7 @@ source ~/.bashrc
 BuffPre [options] -h
 
 # Optional argruments:
-    -b, --buffer    Buffer preparation (efault acid; base)
+    -b, --buffer    Buffer preparation (default acid; base)
     -d, --dilute    Dilution of solution
     -m, --Molar     Calculate Molar of solution
     -r, --recovery  Calculate the percentage of recovery
