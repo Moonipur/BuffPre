@@ -9,11 +9,6 @@ chmod +x install.sh
 
 source ~/.bashrc
 
-# Run test
-cd test
-
-python3 test_BuffPre.py
-
 # Usage: 
 BuffPre [options] -h
 
