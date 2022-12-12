@@ -35,6 +35,11 @@ BuffPre [options] -h
     -h, --help      Show this help message and exit
     -v, --version   The lastest version of BuffPre
     
+# Uninstall program
+chmod +x UNINSTALL.sh
+
+./UNINSTALL.sh
+
 # Author's email:
     moo_sutthittha@hotmail.com (Moonipur)
 
