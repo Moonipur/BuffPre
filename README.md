@@ -10,7 +10,7 @@ chmod +x install.sh
 source ~/.bashrc
 
 # Usage: 
-BuffPre [options] -h
+    BuffPre [options] -h
 
 # Optional argruments:
     -b, --buffer    Buffer preparation (default acid; base)
