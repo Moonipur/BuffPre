@@ -44,6 +44,6 @@ chmod +x uninstall.sh
     moo_sutthittha@hotmail.com (Moonipur)
 
 # The lastest version:
-    BuffPre v0.0.1    
+    BuffPre v1.0.1    
 
 ** Please contact us if you have any questions or problems with the program.
