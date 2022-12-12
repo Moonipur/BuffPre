@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------------------------
+                                Confic file of BuffPre
+---------------------------------------------------------------------------------------------
+#hist
+reset [N] --> Choose Yes/No [Y/N]
+
+#buffer
+pKa [01.1] --> Choose pKa type of buffer from library (can see with --library command)
+save [Y] --> If you choose No, don't write file_name line
+file_name [OutofBuffPre] --> Input your file name here
+
+#dilute
+
+
+#Molar
+
+
+#recovery
+
+
+---------------------------------------------------------------------------------------------
+** Your confic file should to be text file (.txt)
